@@ -13,6 +13,23 @@ html, body{
 .fSidebar{
     height: 100%;
 }
+.insta{
+    color: #e1306c;
+}
+.fcolor{
+    color: #3b5998;
+}
+.linkcolor{
+    color: #0e76a8;
+}
+.gitcolor{
+    color: #333333;
+}
+.zhome-all{
+    height: 100%;
+    width: 100%;
+}
+
 
 
 
