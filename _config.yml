@@ -1,7 +1,7 @@
 name: "Connor Letko - Portfolio"
 description: "Portfolio For Use"
 google: "UA-153630802-2"
-url: 'https://cjl72.github.io/portfolio/'
+url: 'https://cjl72.github.io/portfolio'
 baseurl: ''
 
 markdown: kramdown
